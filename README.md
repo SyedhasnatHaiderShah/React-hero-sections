@@ -22,17 +22,13 @@ Before you begin, ensure you have met the following requirements:
    ```bash
    git clone https://github.com/your-username/react-hero-section-design-with-tailwindcss.git
 
+   ```bash
+  cd react-hero-section
 
-2. Navigate to the project directory:
-  ```bash
-  cd react-hero-section-design-with-tailwindcss
-
-3. Install project dependencies:
-  ```bash
+   ```bash
   npm install
 
-4. Start the development server:
-  ```bash
+   ```bash
   npm start
 
 Open your web browser and visit http://localhost:3000 to see the hero section in action.
