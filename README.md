@@ -36,8 +36,3 @@ _**Happy coding!**_
    npm install
 
    npm start
-
-
-
-
-
