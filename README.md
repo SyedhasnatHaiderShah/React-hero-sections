@@ -17,23 +17,6 @@ Before you begin, ensure you have met the following requirements:
 
 ## Getting Started
 
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/react-hero-section-design-with-tailwindcss.git
-
-   ```bash
-  cd react-hero-section
-
-   ```bash
-  npm install
-
-   ```bash
-  npm start
-
-Open your web browser and visit http://localhost:3000 to see the hero section in action.
-
-
 **## Customization**
 You can easily customize the hero section design by modifying the Tailwind CSS classes and React components in the project. Tailwind CSS makes it straightforward to adjust colors, fonts, spacing, and other styles to match your branding or design preferences.
 
@@ -42,3 +25,19 @@ You can easily customize the hero section design by modifying the Tailwind CSS c
 Feel free to **contribute** to this project by submitting issues or pull requests. If you have any questions or suggestions, please don't hesitate to get in touch.
 
 _**Happy coding!**_
+
+1. Clone this repository to your local machine:
+
+   ```bash
+   git clone https://github.com/your-username/react-hero-section-design-with-tailwindcss.git
+
+   cd react-hero-section
+
+   npm install
+
+   npm start
+
+
+
+
+
